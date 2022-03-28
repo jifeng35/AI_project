@@ -1,0 +1,34 @@
+<xml><var name="In" type="list" qualifier="builtins" value="%5B%27%27%2C %27import torch%5Cnimport wandb%5Cnfrom IPython import display%5Cnfrom d2l import torch as d2l%5Cn%5Cnwandb.init%28project=%22my-test-project%22%2C entity=%22j1feng%22%29%5Cnwandb.config = %7B%5Cn    %22learning_rate%22%3A 0.1%2C%5Cn    %22epochs%22%3A 10%2C%5Cn    %22batch_size%22%3A 256%5Cn%7D%5Cnbatch_size = 256%5Cntrain_iter%2C test_iter = d2l.load_data_fashion_mnist%28batch_size%29%27%5D" isContainer="True" shape="2" isIPythonHidden="True" />
+<var name="Out" type="dict" qualifier="builtins" value="%7B%7D" isContainer="True" shape="0" isIPythonHidden="True" />
+<var name="_" type="str" qualifier="builtins" value="" isIPythonHidden="True" />
+<var name="__" type="str" qualifier="builtins" value="" isIPythonHidden="True" />
+<var name="___" type="str" qualifier="builtins" value="" isIPythonHidden="True" />
+<var name="__builtin__" type="module" qualifier="builtins" value="%3Cmodule %27builtins%27 %28built-in%29&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="__builtins__" type="module" qualifier="builtins" value="%3Cmodule %27builtins%27 %28built-in%29&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="__doc__" type="str" qualifier="builtins" value="Automatically created module for IPython interactive environment" isIPythonHidden="True" />
+<var name="__loader__" type="NoneType" qualifier="builtins" value="None" isIPythonHidden="True" />
+<var name="__name__" type="str" qualifier="builtins" value="__main__" isIPythonHidden="True" />
+<var name="__package__" type="NoneType" qualifier="builtins" value="None" isIPythonHidden="True" />
+<var name="__spec__" type="NoneType" qualifier="builtins" value="None" isIPythonHidden="True" />
+<var name="_dh" type="list" qualifier="builtins" value="%5B%27E%3A%5C%5CAI_project%27%5D" isContainer="True" shape="1" isIPythonHidden="True" />
+<var name="_i" type="str" qualifier="builtins" value="" isIPythonHidden="True" />
+<var name="_i1" type="str" qualifier="builtins" value="import torch%0Aimport wandb%0Afrom IPython import display%0Afrom d2l import torch as d2l%0A%0Awandb.init%28project=%22my-test-project%22%2C entity=%22j1feng%22%29%0Awandb.config = %7B%0A    %22learning_rate%22%3A 0.1%2C%0A    %22epochs%22%3A 10%2C%0A    %22batch_size%22%3A 256%0A%7D%0Abatch_size = 256%0Atrain_iter%2C test_iter = d2l.load_data_fashion_mnist%28batch_size%29" isIPythonHidden="True" />
+<var name="_ih" type="list" qualifier="builtins" value="%5B%27%27%2C %27import torch%5Cnimport wandb%5Cnfrom IPython import display%5Cnfrom d2l import torch as d2l%5Cn%5Cnwandb.init%28project=%22my-test-project%22%2C entity=%22j1feng%22%29%5Cnwandb.config = %7B%5Cn    %22learning_rate%22%3A 0.1%2C%5Cn    %22epochs%22%3A 10%2C%5Cn    %22batch_size%22%3A 256%5Cn%7D%5Cnbatch_size = 256%5Cntrain_iter%2C test_iter = d2l.load_data_fashion_mnist%28batch_size%29%27%5D" isContainer="True" shape="2" isIPythonHidden="True" />
+<var name="_ii" type="str" qualifier="builtins" value="" isIPythonHidden="True" />
+<var name="_iii" type="str" qualifier="builtins" value="" isIPythonHidden="True" />
+<var name="_oh" type="dict" qualifier="builtins" value="%7B%7D" isContainer="True" shape="0" isIPythonHidden="True" />
+<var name="_pydevd_bundle" type="module" qualifier="builtins" value="%3Cmodule %27_pydevd_bundle%27 from %27E%3A%5C%5CPyCharm 2021.3%5C%5Cplugins%5C%5Cpython%5C%5Chelpers%5C%5Cpydev%5C%5C_pydevd_bundle%5C%5C__init__.py%27&gt;" isContainer="True" />
+<var name="batch_size" type="int" qualifier="builtins" value="256" />
+<var name="d2l" type="module" qualifier="builtins" value="%3Cmodule %27d2l.torch%27 from %27E%3A%5C%5Cana%5C%5Clib%5C%5Csite-packages%5C%5Cd2l%5C%5Ctorch.py%27&gt;" isContainer="True" />
+<var name="display" type="module" qualifier="builtins" value="%3Cmodule %27IPython.display%27 from %27E%3A%5C%5Cana%5C%5Clib%5C%5Csite-packages%5C%5CIPython%5C%5Cdisplay.py%27&gt;" isContainer="True" />
+<var name="exit" type="ZMQExitAutocall" qualifier="IPython.core.autocall" value="%3CIPython.core.autocall.ZMQExitAutocall object at 0x0000022533205A00&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="get_ipython" type="method" qualifier="builtins" value="%3Cbound method InteractiveShell.get_ipython of %3Cipykernel.zmqshell.ZMQInteractiveShell object at 0x0000022533188F40&gt;&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="pydev_jupyter_vars" type="module" qualifier="builtins" value="%3Cmodule %27pydev_jupyter_vars%27 from %27E%3A%5C%5CPyCharm 2021.3%5C%5Cplugins%5C%5Cpython%5C%5Chelpers-pro%5C%5Cjupyter_debug%5C%5Cpydev_jupyter_vars.py%27&gt;" isContainer="True" />
+<var name="quit" type="ZMQExitAutocall" qualifier="IPython.core.autocall" value="%3CIPython.core.autocall.ZMQExitAutocall object at 0x0000022533205A00&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="remove_imported_pydev_package" type="function" qualifier="builtins" value="%3Cfunction remove_imported_pydev_package at 0x00000225525F8D30&gt;" isContainer="True" />
+<var name="sys" type="module" qualifier="builtins" value="%3Cmodule %27sys%27 %28built-in%29&gt;" isContainer="True" />
+<var name="test_iter" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x0000022552601160&gt;" isContainer="True" shape="40" />
+<var name="torch" type="module" qualifier="builtins" value="%3Cmodule %27torch%27 from %27E%3A%5C%5Cana%5C%5Clib%5C%5Csite-packages%5C%5Ctorch%5C%5C__init__.py%27&gt;" isContainer="True" />
+<var name="train_iter" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x00000225525F9DF0&gt;" isContainer="True" shape="235" />
+<var name="wandb" type="module" qualifier="builtins" value="%3Cmodule %27wandb%27 from %27E%3A%5C%5Cana%5C%5Clib%5C%5Csite-packages%5C%5Cwandb%5C%5C__init__.py%27&gt;" isContainer="True" />
+</xml>
