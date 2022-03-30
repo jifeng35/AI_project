@@ -1,0 +1,26 @@
+{
+    "os": "Windows-10-10.0.22000-SP0",
+    "python": "3.8.5",
+    "heartbeatAt": "2022-03-27T01:38:17.690141",
+    "startedAt": "2022-03-27T01:38:10.042969",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 2070",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\lee\\AppData\\Roaming\\jupyter\\runtime\\kernel-c83ae18f-19f8-4797-8382-05d185ef4d69.json"
+    ],
+    "state": "running",
+    "program": "hello world project.ipynb",
+    "root": "E:/AI_project",
+    "git": {
+        "remote": "https://github.com/jifeng35/AI_project.git",
+        "commit": "6ec3c203afd95159ec6ce5d953ed7df68ac376e9"
+    },
+    "email": "15122988733m@gmail.com",
+    "host": "DESKTOP-F51SPLI",
+    "username": "lee",
+    "executable": "E:\\ana\\python.exe"
+}

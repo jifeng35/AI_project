@@ -1,0 +1,26 @@
+{
+    "os": "Windows-10-10.0.22000-SP0",
+    "python": "3.8.5",
+    "heartbeatAt": "2022-03-24T07:11:35.801282",
+    "startedAt": "2022-03-24T07:11:29.363656",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 2070",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\lee\\AppData\\Roaming\\jupyter\\runtime\\kernel-816c61b0-460f-43d9-bcf0-c2c0735ff4b6.json"
+    ],
+    "state": "running",
+    "program": "easy softmax regression.ipynb",
+    "root": "E:/AI_project",
+    "git": {
+        "remote": "https://github.com/jifeng35/AI_project.git",
+        "commit": "6ec3c203afd95159ec6ce5d953ed7df68ac376e9"
+    },
+    "email": "15122988733m@gmail.com",
+    "host": "DESKTOP-F51SPLI",
+    "username": "lee",
+    "executable": "E:\\ana\\python.exe"
+}
