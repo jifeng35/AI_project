@@ -12,7 +12,10 @@ dataloader = DataLoader(dataset, batch_size=64)
 class net(nn.Module):
     def __init__(self):
         super(net, self).__init__()
-        self.conv1 = Conv2d(in_channels=3, out_channels=6, kernel_size=3, stride=1, padding=0)
+        self.conv1 = Conv2d(in_channels=3, out_channels=6, kernel_size=3, stride=1, padding=0, dilation=2)
+        """in_channels输入的通道数目,out_channels输出通道数目,kernel_size卷积核大小, stride是卷积核移动的步长, padding是周围添加n圈0的n, 
+        dilation=0是非空洞卷积,否则为空洞卷积,具体见网页
+        https://github.com/vdumoulin/conv_arithmetic/blob/master/README.md"""
 
     def forward(self, x):
         return self.conv1(x)
